@@ -1,0 +1,20 @@
+{
+    "name": "pandiselvamps/laravel-phorest",
+    "description": "Phorest API helpers for Laravel or PHP frameworks with eloquent way",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5",
+        "illuminate/support": "^9.40"
+    },
+    "autoload": {
+        "psr-4": {
+            "PandiSelvamPS\\LaravelPhorest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pandiselvamps",
+            "email": "pandiselvamm004@gmail.com"
+        }
+    ]
+}
