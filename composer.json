@@ -2,10 +2,16 @@
     "name": "pandiselvamps/laravel-phorest",
     "description": "Phorest API helpers for Laravel or PHP frameworks with eloquent way",
     "type": "library",
+     "keywords": [
+        "laravel",
+        "phorest",
+        "api"
+      ],
     "require": {
         "guzzlehttp/guzzle": "^7.5",
         "illuminate/support": "^9.40"
     },
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "PandiSelvamPS\\LaravelPhorest\\": "src/"
